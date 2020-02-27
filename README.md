@@ -1,5 +1,5 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Sope Ogundipe
+**USF email address**:  mogundipe@dons.usfca.edu
 
